@@ -22,11 +22,13 @@ A brutalist, local-first task board for building projects with AI. The notes liv
 
 <sub>React · TypeScript · Vite · File System Access API · PWA · Playwright</sub>
 
-### Earlier
+### More projects
 
+- **[Superveil](https://jimy-portfolio.vercel.app/en#superveil)**: the traffic of all my sites on one screen: visits, who is on them right now and where people come from. Cookie-free, with the data in my own database.
+- **[MCLoc](https://github.com/jimy-k4/mcloc)**: a coordinates tracker for Minecraft. Bases, portals and structures by world and dimension, on a map, with Nether conversion and tools like a pixel-perfect circle generator.
+- **[aruateam](https://github.com/hxst1/aruateam)**: website, CMS and shop for a drift team. With [Edu Ruiz](https://github.com/hxst1).
 - **[Particle Life](https://github.com/jimy-k4/particle-life)**: artificial life in 2D. Particles attract or repel each other following a matrix of rules, and patterns that look alive emerge. With [Edu Ruiz](https://github.com/hxst1).
 - **[Memoji-my](https://github.com/jimy-k4/memoji-my)**: a memory game with new characters every match, generated with the DiceBear API.
-- **[aruateam](https://github.com/hxst1/aruateam)**: website, CMS and shop for a drift team. With [Edu Ruiz](https://github.com/hxst1).
 
 ### Stack
 
