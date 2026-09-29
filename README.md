@@ -1,12 +1,14 @@
 <a href="https://jimy-portfolio.vercel.app">
-  <img src="header.png" width="100%" alt="Juan Llinares. Computer engineer and full stack developer, now building Gym.y and Bruto">
+  <img src="header.png" width="100%" alt="Juan Llinares. Computer engineer and senior full stack developer, now building Gym.y and Bruto">
 </a>
 
 <br>
 
-I build software people actually use. By day, tax management systems at gtt; the rest of the time, my own products, with one rule: easy to use and accessible to everyone.
+I build software people actually use. By day, software for tax administrations in Spain and Latin America at gtt; the rest of the time, my own products, with one rule: easy to use and accessible to everyone.
 
-**[Portfolio](https://jimy-portfolio.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/juan-llinares-mauri/) · [jllinaresmauri@gmail.com](mailto:jllinaresmauri@gmail.com)
+Alicante, Spain · Open to freelance work and new opportunities.
+
+**[Portfolio](https://jimy-portfolio.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/juan-llinares-mauri/) · [Ko-fi](https://ko-fi.com/jimy_k4) · [jllinaresmauri@gmail.com](mailto:jllinaresmauri@gmail.com)
 
 ### Now building
 
@@ -16,11 +18,11 @@ A training log made to be used at the gym, with your phone in one hand. It start
 
 <sub>Next.js · TypeScript · Supabase · PostgreSQL · PWA · Web Push</sub>
 
-**[Bruto](https://github.com/jimy-k4/bruto)** · open source
+**[Bruto](https://github.com/jimy-k4/bruto)** · open source · [@brutoboard](https://x.com/brutoboard)
 
-A brutalist, local-first task board for building projects with AI. The notes live in a file inside the project, so you and any assistant work from the same source. I use it every day to build Gym.y and my portfolio.
+A brutalist, local-first task board for building projects with AI. It started as a tool for my work at gtt and I use it every day: the notes live in a file inside each project, so you and any assistant work from the same source. Assistants answer the notes over MCP, and a note can block or relate to one in another project.
 
-<sub>React · TypeScript · Vite · File System Access API · PWA · Playwright</sub>
+<sub>React · TypeScript · Vite · File System Access API · MCP · PWA · Playwright</sub>
 
 ### More projects
 
@@ -32,7 +34,7 @@ A brutalist, local-first task board for building projects with AI. The notes liv
 
 ### Stack
 
-TypeScript · React · Next.js · Node.js · C# · Oracle PL/SQL · PostgreSQL · Supabase · Tailwind CSS · Playwright
+TypeScript · JavaScript · C# · Java · C++ · PL/SQL · React · Next.js · Vue · Nuxt · .NET · Node.js · Supabase · PostgreSQL · Oracle · Tailwind CSS · Playwright · Docker
 
 <br>
 
