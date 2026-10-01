@@ -18,7 +18,7 @@ A training log made to be used at the gym, with your phone in one hand. It start
 
 <sub>Next.js · TypeScript · Supabase · PostgreSQL · PWA · Web Push</sub>
 
-**[Bruto](https://github.com/jimy-k4/bruto)** · open source · [@brutoboard](https://x.com/brutoboard)
+**[Bruto](https://github.com/jimy-k4/bruto)** · open source · [#14 of the day on Product Hunt](https://www.producthunt.com/leaderboard/daily/2026/9/30) · [@brutoboard](https://x.com/brutoboard)
 
 A brutalist, local-first task board for building projects with AI. It started as a tool for my work at gtt and I use it every day: the notes live in a file inside each project, so you and any assistant work from the same source. Assistants answer the notes over MCP, and a note can block or relate to one in another project.
 
