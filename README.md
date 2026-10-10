@@ -14,7 +14,7 @@ Alicante, Spain · Open to freelance work and new opportunities.
 
 **[Gym.y](https://gym-y.vercel.app/)** · in production
 
-A training log made to be used at the gym, with your phone in one hand. It started as my own and now also serves coaches and their athletes: distraction-free logging set by set, coach mode with mesocycles, push notifications, and each user's data isolated with row-level security.
+A training log made to be used at the gym, with your phone in one hand. It started as my own and now also serves coaches and their athletes: distraction-free logging set by set, coach mode with mesocycles, friends and share links, milestones, push notifications, and each user's data isolated with row-level security.
 
 <sub>Next.js · TypeScript · Supabase · PostgreSQL · PWA · Web Push</sub>
 
