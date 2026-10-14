@@ -26,6 +26,7 @@ A brutalist, local-first task board for building projects with AI. It started as
 
 ### More projects
 
+- **[Homie](https://jimy-portfolio.vercel.app/en#homie)** · in development: shopping, receipts, money, pantry, meals, chores, maintenance and documents in one self-hosted app, shared in real time. It reads receipts with its own OCR and warns before anything expires or renews.
 - **[Beacon Split](https://beacon-split.vercel.app/)** · in development: [Edu Ruiz](https://github.com/hxst1)'s workspace for running several Claude Code sessions at once, each with real terminals, files and git, and a tab that says which one is waiting for an answer. I ported it to Windows and keep building it with him.
 - **[Superveil](https://jimy-portfolio.vercel.app/en#superveil)**: the traffic of all my sites on one screen: visits, who is on them right now and where people come from. Cookie-free, with the data in my own database.
 - **[MCLoc](https://github.com/jimy-k4/mcloc)**: a coordinates tracker for Minecraft. Bases, portals and structures by world and dimension, on a map, with Nether conversion and tools like a pixel-perfect circle generator.
