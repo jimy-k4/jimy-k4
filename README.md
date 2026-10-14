@@ -1,5 +1,5 @@
 <a href="https://jimy-portfolio.vercel.app">
-  <img src="header.png" width="100%" alt="Juan Llinares. Computer engineer and senior full stack developer, now building Gym.y and Bruto">
+  <img src="header.svg" width="100%" alt="Juan Llinares. Computer engineer and senior full stack developer, now building Gym.y and Bruto">
 </a>
 
 <br>
