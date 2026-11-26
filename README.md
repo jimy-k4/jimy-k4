@@ -1,5 +1,5 @@
 <a href="https://jimy-portfolio.vercel.app">
-  <img src="header.svg" width="100%" alt="Juan Llinares. Computer engineer and senior full stack developer, now building Gym.y and competing in More than a Hack 2027, FC Barcelona's football data hackathon">
+  <img src="header.svg" width="100%" alt="Juan Llinares. Computer engineer and senior full stack developer, now building Gym.y and drawing my own vehicles part by part in kawa-anatomy and lexus-anatomy">
 </a>
 
 <br>
@@ -10,18 +10,6 @@ Alicante, Spain · Open to freelance work and new opportunities.
 
 **[Portfolio](https://jimy-portfolio.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/juan-llinares-mauri/) · [Ko-fi](https://ko-fi.com/jimy_k4) · [jllinaresmauri@gmail.com](mailto:jllinaresmauri@gmail.com)
 
-### More than a Hack 2027 · with FC Barcelona
-
-<img src="barca.svg" align="right" width="96" alt="FC Barcelona crest">
-
-**[GTT](https://gtt-talentarena.github.io/)** · phase 1, until 17 November 2026
-
-The football data hackathon by FC Barcelona, Metrica Sports and Mobile World Capital Barcelona, at Talent Arena. One full LaLiga match, Barça against Athletic Club, and one question: which team has the ball in each of its 199,319 frames, with the ball out of sight in 41% of the scored ones. I compete with GTT, a team of five: I built the team's website and its log, and wrote the first studies.
-
-[Project log](https://gtt-talentarena.github.io/log/) · [Code](https://github.com/GTT-TalentArena/more-than-a-hack-2027) · [The challenge](https://landing.mobileworldcapital.com/more-than-a-hack-2027)
-
-<sub>Python · tracking data · homography · Next.js</sub>
-
 ### Now building
 
 **[Gym.y](https://gym-y.vercel.app/)** · in production
@@ -29,6 +17,20 @@ The football data hackathon by FC Barcelona, Metrica Sports and Mobile World Cap
 A training log made to be used at the gym, with your phone in one hand. It started as my own and now also serves coaches and their athletes: distraction-free logging set by set, coach mode with mesocycles, friends and share links, milestones, push notifications, and each user's data isolated with row-level security.
 
 <sub>Next.js · TypeScript · Supabase · PostgreSQL · PWA · Web Push</sub>
+
+### Anatomies
+
+Interactive viewers of my own vehicles, drawn from the factory manuals and the parts catalogue: every part with its real number, every system working live.
+
+**[kawa-anatomy](https://kawa-anatomy.vercel.app/)** · in development
+
+My Kawasaki ZX-6R, piece by piece: twelve systems in isometric drawing that come apart in three stages and turn in 30° steps. Every part carries its part number, torque and manual page; the engine runs its four strokes, the coolant flows and the ignition key shows which wires conduct. Plus a workshop logbook of what the bike needs and what has been done to it.
+
+**[lexus-anatomy](https://lexus-anatomy.vercel.app/)** · in development
+
+My 2000 Lexus IS200, wire by wire: the same drawings taken to a whole car, from Toyota's repair manual and the parts catalogue for its own VIN. Six systems and 1,333 parts with their EPC references, a simulated electrical system where the key and each control light up the 89 harness runs, and a guided diagnosis for eleven faults with the readings to expect on the multimeter.
+
+<sub>JavaScript · SVG · Node.js · Anatomy kit</sub>
 
 ### Finished
 
@@ -52,6 +54,18 @@ A brutalist, local-first task board for building projects with AI. It started as
 - **[aruateam](https://github.com/hxst1/aruateam)**: website, CMS and shop for a drift team. With [Edu Ruiz](https://github.com/hxst1).
 - **[Particle Life](https://github.com/jimy-k4/particle-life)**: artificial life in 2D. Particles attract or repel each other following a matrix of rules, and patterns that look alive emerge. With [Edu Ruiz](https://github.com/hxst1).
 - **[Memoji-my](https://github.com/jimy-k4/memoji-my)**: a memory game with new characters every match, generated with the DiceBear API.
+
+### Off the clock · More than a Hack 2027 with FC Barcelona
+
+<img src="barca.svg" align="right" width="96" alt="FC Barcelona crest">
+
+**[GTT](https://gtt-talentarena.github.io/)** · finished 374th of 800
+
+The football data hackathon by FC Barcelona, Metrica Sports and Mobile World Capital Barcelona, at Talent Arena: which team has the ball in each of the 199,319 frames of a LaLiga match, with the ball out of sight in 41% of the scored ones. I competed with GTT, a team of five: our model decodes the possessions of each half with an exact Viterbi decoder and runs in under 30 seconds on a CPU, reproducible in Docker. I built the team's website and its log, and wrote the first studies. We did not reach the top 20 of the second phase.
+
+[Project log](https://gtt-talentarena.github.io/log/) · [Code](https://github.com/GTT-TalentArena/more-than-a-hack-2027) · [The challenge](https://landing.mobileworldcapital.com/more-than-a-hack-2027)
+
+<sub>Python · tracking data · Viterbi · Docker · Next.js</sub>
 
 ### Stack
 
